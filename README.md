@@ -4,8 +4,7 @@
 
 <h4 align="center">
   O intuito deste repositório é compartilhar a construção um sistema voltado ao gerenciamento de controle de vendas e estoque de uma gráfica. Todo o desenvolvimento foi criado durante o curso de POO em 2021.
-  </br>
-  <a href='https://fincance-control-front-endn.vercel.app/' target='_blank'>🔎 View Demo</a>
+ 
 </h4>
 
 <h2 align="left">
